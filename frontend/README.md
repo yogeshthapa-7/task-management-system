@@ -15,6 +15,8 @@
 
 ## ✨ Overview
 
+> ⚠️ **This project is still in development phase.** New features and improvements are being added regularly.
+
 TaskFlow is a high-performance, responsive task management dashboard prototype. It's built to demonstrate a premium user experience with **Dark Mode**, **Real-time Filters**, and **Persisted State**.
 
 > [!NOTE]
@@ -23,18 +25,38 @@ TaskFlow is a high-performance, responsive task management dashboard prototype. 
 ## 🖼️ Screenshots
 
 <div align="center">
-  <h3>Main Dashboard (Light Mode)</h3>
-  <img src="./frontend/screenshots/screenshot1.png" width="800" alt="Dashboard Light" />
+  <h3>Homepage</h3>
+  <img src="./screenshots/homepage.png" width="800" alt="Homepage" />
+
+  <br />
+
+  <h3>Main Dashboard</h3>
+  <img src="./screenshots/dashboard.png" width="800" alt="Dashboard" />
+
+  <br />
+
+  <h3>Features</h3>
+  <img src="./screenshots/features.png" width="800" alt="Features" />
 
   <br />
 
   <h3>Analytics & Charts</h3>
-  <img src="./frontend/screenshots/screenshot3.png" width="800" alt="Analytics" />
+  <img src="./screenshots/analytics.png" width="800" alt="Analytics" />
 
   <br />
 
   <h3>Interactive Calendar</h3>
-  <img src="./frontend/screenshots/screenshot4.png" width="800" alt="Calendar" />
+  <img src="./screenshots/calender.png" width="800" alt="Calendar" />
+
+  <br />
+
+  <h3>Tasks View</h3>
+  <img src="./screenshots/tasks.png" width="800" alt="Tasks" />
+
+  <br />
+
+  <h3>Footer</h3>
+  <img src="./screenshots/footer.png" width="800" alt="Footer" />
 </div>
 
 ---
